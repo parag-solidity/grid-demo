@@ -1,0 +1,42 @@
+{
+  "name": "z6fc7h--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "21.2.9",
+    "@syncfusion/ej2-dropdowns": "21.2.10",
+    "@syncfusion/ej2-react-base": "21.2.8",
+    "@syncfusion/ej2-react-dropdowns": "21.2.10",
+    "@syncfusion/ej2-grids": "21.2.10",
+    "@syncfusion/ej2-react-grids": "21.2.10",
+    "@syncfusion/ej2-buttons": "21.2.10",
+    "@syncfusion/ej2-react-buttons": "21.2.10",
+    "@syncfusion/ej2-lists": "21.2.9",
+    "@syncfusion/ej2-documenteditor": "21.2.10",
+    "@syncfusion/ej2-splitbuttons": "21.2.5",
+    "@syncfusion/ej2-navigations": "21.2.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
